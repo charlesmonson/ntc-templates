@@ -1,0 +1,12 @@
+Value ADDRESS (\S+)
+Value AGE (\d+)
+Value MAC (\S+)
+Value TYPE (\S+)
+Value INTERFACE (\S+)
+Value LOCATION (\S+)
+
+Start
+  ^IPv6\s+Address\s+Age\s+Link-layer\s+Addr\s+State\s+Interface\s+Location\s*$$
+  ^${ADDRESS}\s+${AGE}\s+${MAC}\s+${TYPE}\s+${INTERFACE}\s+${LOCATION} -> Record
+  ^\s*$$
+  ^. -> Error
