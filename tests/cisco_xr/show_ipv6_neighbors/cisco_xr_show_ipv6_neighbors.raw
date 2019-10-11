@@ -1,18 +1,14 @@
-Wed Oct  9 03:24:07.252 UTC
+Fri Oct 11 02:35:25.149 UTC
 IPv6 Address                              Age Link-layer Addr State Interface            Location
-2001:db8:ffff::12:2                      99   0c07.a11a.b801 REACH Gi0/0/0/0            0/0/CPU0       
-fe80::e07:a1ff:fe1a:b801                 96   0c07.a11a.b801 REACH Gi0/0/0/0            0/0/CPU0       
+2001:db8:ffff::12:2                      110  0c07.a11a.b801 REACH Gi0/0/0/0            0/0/CPU0       
+fe80::e07:a1ff:fe1a:b801                 99   0c07.a11a.b801 REACH Gi0/0/0/0            0/0/CPU0       
 [Mcast adjacency]                           - 0000.0000.0000 REACH Gi0/0/0/0            0/0/CPU0       
-2001:db8:ffff::13:3                      116  0c07.a1bc.7901 REACH Gi0/0/0/1            0/0/CPU0       
-fe80::e07:a1ff:febc:7901                 91   0c07.a1bc.7901 REACH Gi0/0/0/1            0/0/CPU0       
 [Mcast adjacency]                           - 0000.0000.0000 REACH Gi0/0/0/1            0/0/CPU0       
-2001:db8:ffff::15:5                      175  0c07.a180.6501 REACH Gi0/0/0/2            0/0/CPU0       
-fe80::e07:a1ff:fe80:6501                 148  0c07.a180.6501 REACH Gi0/0/0/2            0/0/CPU0       
 [Mcast adjacency]                           - 0000.0000.0000 REACH Gi0/0/0/2            0/0/CPU0       
-2001:db8:1000:beef::1                    7    ca01.0ff1.0008 REACH Gi0/0/0/3            0/0/CPU0       
-2001:db8:1000:beef::2                    71   ca02.0fff.0008 REACH Gi0/0/0/3            0/0/CPU0       
-2001:db8:1000:beef::3                    80   ca03.100d.0008 REACH Gi0/0/0/3            0/0/CPU0       
-fe80::c801:fff:fef1:8                    170  ca01.0ff1.0008 REACH Gi0/0/0/3            0/0/CPU0       
-fe80::c802:fff:feff:8                    132  ca02.0fff.0008 REACH Gi0/0/0/3            0/0/CPU0       
-fe80::c803:10ff:fe0d:8                   72   ca03.100d.0008 REACH Gi0/0/0/3            0/0/CPU0       
+2001:db8:1000:beef::1                    105  ca01.0ff1.0008 REACH Gi0/0/0/3            0/0/CPU0       
+2001:db8:1000:beef::2                    108  ca02.0fff.0008 REACH Gi0/0/0/3            0/0/CPU0       
+2001:db8:1000:beef::3                    105  ca03.100d.0008 REACH Gi0/0/0/3            0/0/CPU0       
+fe80::c801:fff:fef1:8                    89   ca01.0ff1.0008 REACH Gi0/0/0/3            0/0/CPU0       
+fe80::c802:fff:feff:8                    105  ca02.0fff.0008 REACH Gi0/0/0/3            0/0/CPU0       
+fe80::c803:10ff:fe0d:8                   91   ca03.100d.0008 REACH Gi0/0/0/3            0/0/CPU0       
 [Mcast adjacency]                           - 0000.0000.0000 REACH Gi0/0/0/3            0/0/CPU0       
